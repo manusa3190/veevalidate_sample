@@ -2,7 +2,7 @@
 import { useForm } from 'vee-validate';
 import * as yup from 'yup';
 
-definePageMeta({name:'テスト'})
+definePageMeta({name:'5.inputを別コンポーネント'})
 
 const prefs = [
   {prefName:'大阪府',regionName:'近畿地方'},
